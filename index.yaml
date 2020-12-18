@@ -3,12 +3,12 @@ entries:
   hello-world:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-12-18T18:38:54.4816228+05:30"
+    created: "2020-12-18T19:11:41.9148682+05:30"
     description: A Helm chart for Kubernetes
     digest: 9542e3df3b3e1969f82f7a9596375d6914cb8640cf3f272c6ada705d123f3b45
     name: hello-world
     type: application
     urls:
-    - hello-world-0.1.0.tgz
+    - https://pkuma343.github.io/helm-repo/hello-world-0.1.0.tgz
     version: 0.1.0
-generated: "2020-12-18T18:38:54.4816228+05:30"
+generated: "2020-12-18T19:11:41.9058761+05:30"
